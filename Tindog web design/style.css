@@ -1,0 +1,144 @@
+h1 {
+    font-size: 45px;
+    font-weight: 800;
+    line-height: 1.5;
+    font-family:sans-serif;
+    
+}
+
+
+#iphone{
+    
+    width: 50%;   
+    height: 410px;
+    float: right;
+    margin-right: 50px;
+}
+
+
+#title{
+    height: 630px;
+    background: rgb(255,76,104);
+    background: linear-gradient(90deg, rgba(255,76,104,1) 0%, rgba(255,137,95,1) 100%, rgba(121,9,9,1) 100%);
+    
+}
+.container-fluid{
+    padding: 3% 11%;
+}
+h3 {
+    font-family: "sans-serif";
+    font-weight: 600;
+}
+
+
+#features{
+    padding: 6% 10% 6% 10%;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    
+    
+}
+.testimonial-text{
+    margin-bottom: 70px;
+    color: white;
+    font-family: sans-serif;
+}
+.testimonial-image{
+    
+    width: 12%;
+    border-radius: 50%;
+    
+    
+    
+}
+.fab{
+    margin: 0 10px 0 0;
+}
+
+.btn{
+    margin-right: 10px;
+    margin-top: 50px;
+}
+#testimonials{
+    background-color: #ef8172;
+    background: rgb(224,147,137);
+    background: linear-gradient(90deg, rgba(224,147,137,1) 0%, rgba(255,137,95,1) 100%, rgba(121,9,9,1) 100%);
+    text-align: center;
+}
+
+#press{
+    text-align: center;
+    background-color: #ef8172;
+    margin-bottom: 90px;
+    background: rgb(224,147,137);
+    background: linear-gradient(90deg, rgba(224,147,137,1) 0%, rgba(255,137,95,1) 100%, rgba(121,9,9,1) 100%);
+}
+.carousel-item{
+    padding: 4% 15%;
+}
+.press-image{
+    width: 160px;
+    margin: 20px;
+}
+.row{
+    margin-top: 40px;
+}
+.price{
+    margin: auto;
+    width: 90%;
+}
+.navbar-brand{
+    font-size: 37px;
+    font-weight: 700;
+}
+
+.nav-link{
+    font-size: 20px;
+    margin-right: 45px;
+}
+#pricing{
+    text-align: center;
+    padding: 0% 8% 0% 8%;
+}
+#price-para{
+    margin: 0 0 50px 0;
+}
+.card{
+    margin-bottom: 20px;
+    padding: 1%;
+    border-color: #343a40;
+    border-radius: 25px;
+    border-width: 3px;
+    
+}
+
+#cta{
+    text-align: center;
+    margin-top: 90px;
+    background-color: #ff4c68;
+    padding-bottom: 100px;
+    background: rgb(255,76,104);
+background: linear-gradient(90deg, rgba(255,76,104,1) 0%, rgba(255,137,95,1) 100%, rgba(121,9,9,1) 100%);
+    
+}
+
+#footer{
+    text-align: center;
+    margin-top: 20px;
+}
+.copyright{
+    margin-top: 20px;
+    padding-bottom: 90px;
+    font-weight: 600;
+}
+
+.fa-facebook{
+    margin-right: 30px;
+}
+.fa-instagram{
+    margin-right: 30px;
+}
+.fa-twitter{
+    margin-right: 30px;
+}
